@@ -210,7 +210,10 @@
         }
       ],
       "track_widths": [
-        0.0
+        0.0,
+        0.25,
+        0.5,
+        1.0
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -253,7 +256,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "1.0"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -508,7 +511,7 @@
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.2,
+        "clearance": 0.15,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -674,7 +677,7 @@
         "uuid": "bd8cca2e-3013-4c5c-aba4-49dea2d8195f"
       }
     ],
-    "used_designators": "U1-6,SW1-3,J1-4,R1-12,D1-6,#PWR1-38,C1-18,#SYM1",
+    "used_designators": "U1-8,SW1-3,J1-5,#FLG1-4,R1-14,D1-8,#PWR1-77,C1-19,#SYM1,Q1-5,H1,TH1-2",
     "variants": []
   },
   "sheets": [
